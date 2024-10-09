@@ -8,7 +8,6 @@ The intent of this project is to re-create and improve upon the work of the orig
 [ElectrArc240 - Circuit Design Tutorial](https://youtube.com/playlist?list=PLLU_IzzSGosPplrq8NabdY06zsDWTVgaa&si=tTeOY5h2Lhq4mCgW)
 
 
-
 ## What is Decimal Time?
 
 Decimal time, also known as metric time, operates on a base-10 (decimal) time system rather than the traditional base-60 (sexagesimal) system we use for measuring time (i.e., 60 seconds per minute and 60 minutes per hour). In decimal time, the day is divided into 10 hours, each hour is divided into 100 minutes, and each minute is divided into 100 seconds. This results in a simpler, evenly divided system that aligns more closely with the decimal (base-10) system we use for most other measurements.

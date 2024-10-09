@@ -1,5 +1,8 @@
 # The Decimal Clock
 
+![DecClock_rev04](https://github.com/user-attachments/assets/9f4a5fcb-c1b0-4f66-ae1a-e88d5ba9b3cc)
+
+
 The intent of this project is to re-create and improve upon the work of the orignal creator, the YouTube channel @electrarc240. The result was a recreation of the efforts as outlined in the video series found here:
 
 [ElectrArc240 - Circuit Design Tutorial](https://youtube.com/playlist?list=PLLU_IzzSGosPplrq8NabdY06zsDWTVgaa&si=tTeOY5h2Lhq4mCgW)

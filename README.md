@@ -1,6 +1,8 @@
 # The Decimal Clock
 
-![DecClock_rev04](https://github.com/user-attachments/assets/9f4a5fcb-c1b0-4f66-ae1a-e88d5ba9b3cc)
+
+![DecClock](https://github.com/user-attachments/assets/1e4456f3-688f-45b5-9659-20dc0314ff21)
+
 
 
 The intent of this project is to re-create and improve upon the work of the orignal creator, the YouTube channel @electrarc240. The result was a recreation of the efforts as outlined in the video series found here:

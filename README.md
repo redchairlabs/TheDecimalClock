@@ -1,7 +1,6 @@
 # The Decimal Clock
 
 
-![DecClock](https://github.com/user-attachments/assets/1e4456f3-688f-45b5-9659-20dc0314ff21)
 
 
 

@@ -52,14 +52,14 @@ The manual reset is a push button used to set the time of the clock. This works 
 ## The IC's Explained
 
 ### CD4020
-The CD4020 is a 14 stage, ripple-carry binary counter. The counter stages are mastr-slave flip-flops. The state of the coutner advances on the negative transition of each input pulse. A high level on the RESET line resets the counter to an all zero state. Counter outputs Q2 and Q3 are omitted on this IC.
+The CD4020 is a 14 stage, ripple-carry binary counter. The counter stages are master-slave flip-flops. The state of the coutner advances on the negative transition of each input pulse. A high level on the RESET line resets the counter to an all zero state. Counter outputs Q2 and Q3 are omitted on this IC.
 
 The following video provides an overview of the functions and capabilities of the 4020 and 4024 IC:
 
 https://youtu.be/QmvfDinq0QI?si=iYM-AZGnyLCsgtye
 
 ### CD4024
-The CD4024 is a 7 stage, ripple-carry binary counter. The counter stages are mastr-slave flip-flops. The state of the coutner advances on the negative transition of each input pulse. A high level on the RESET line resets the counter to an all zero state.
+The CD4024 is a 7 stage, ripple-carry binary counter. The counter stages are master-slave flip-flops. The state of the coutner advances on the negative transition of each input pulse. A high level on the RESET line resets the counter to an all zero state.
 
 ### CD4026
 The CD4026 is a 5-stage Johnson decade counter and an ouotput decoder which converts the Johnson code to a 7-segment decoded output for driving a one stage is a numerical display. The CD4026 is designed for use with a 7-segment, common cathode LED display.

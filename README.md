@@ -45,7 +45,7 @@ The clock signal output of the 4024 is fed into the first of seven, cascaded 402
 ### MSD Automatic Reset and Clock Manual Reset
 The clock contains two reset circuits. An automatic reset for Most Significant Digit (MSD) and a manual reset pushbutton for ALL digits.
 
-The MSD (day counter) automatic reset circuit will send a pulse to the MSD 4026 IC (U17) reset pin once the seventh day of the week is reached. The reset circuit utilizes a three inoput AND gate (U3C) to monitor two conditions to set the reset pulse. The first is U17 CARRY OUT not true and the second is a bit derrived from an NPN transistor (Q2) that monitors the "F" segment output of U17 for NOT TRUE. The third input of the AND gate is tied to +5v. The output of the AND gate is used to reset the MSD. 
+The MSD (day counter) automatic reset circuit will send a pulse to the MSD 4026 IC (U17) reset pin once the seventh day of the week is reached. The reset circuit utilizes a three input AND gate (U3C) to monitor two conditions to set the reset pulse. The first is U17 CARRY OUT not true and the second is a bit derrived from an NPN transistor (Q2) that monitors the "F" segment output of U17 for NOT TRUE. The third input of the AND gate is tied to +5v. The output of the AND gate is used to reset the MSD. 
 
 The manual reset is a push button used to set the time of the clock. This works by sending a pulse to all 4026 reset pins (U5, U7, U9, U11, U13, U15, and U17). The manual reset circuit will pulse the MSD (U17) through a 1N4148 diode (D1). The diode prevents the MSD automatic reset pulse from back feeding into the manual pulse circuit and resetting the remaining digits.
 
